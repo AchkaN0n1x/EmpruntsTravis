@@ -13,5 +13,7 @@ Feature: Je veux pouvoir ajouter/supprimer des emprunts
 
     Examples:
     | e  | titre                    | emprunteur |
-    # A COMPLETER!
-    | e1 | TITRE               | QUI        | 
+    | e1 | Clean Code | Joe |
+    | e2 | The Clean Coder | Jack |
+    | e3 | The Pragmatic Programmer | Averell |
+    
