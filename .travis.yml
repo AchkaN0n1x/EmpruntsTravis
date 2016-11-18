@@ -5,6 +5,6 @@ rvm:
 notifications:
   email:
     recipients:
-      - valero.sarah@courrier.uqam.ca
-      on_success: always
-      on_failure: always
+      - sarah.svalero@gmail.com
+    on_success: always
+    on_failure: always
